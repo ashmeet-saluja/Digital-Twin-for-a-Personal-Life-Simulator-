@@ -17,3 +17,7 @@ Ensure you have Python installed, then install the necessary dependencies using:
 ```bash
 pip install numpy pandas matplotlib scikit-learn
 
+### 2️⃣ **Run the Program**
+Execute the script in your terminal or IDE:
+```bash
+python digital_twin_simulator.py
