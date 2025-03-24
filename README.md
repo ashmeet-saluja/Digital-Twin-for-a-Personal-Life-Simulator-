@@ -1,7 +1,7 @@
-## 🌍 Digital Twin for a Personal Life Simulator
+# 🌍 Digital Twin for a Personal Life Simulator
 Digital Twin for a Personal Life Simulator is an AI-powered decision-making tool that helps individuals make informed choices about their career, finances, health, and personal growth. By leveraging predictive analytics and data-driven insights, this simulator provides personalized recommendations to improve overall well-being and long-term success.
 
-🚀 Features
+##🚀 Features
 ✅ Realistic Life Simulation → Models key life areas like career, health, and financial growth.
 ✅ AI-Powered Insights → Predicts salary growth, financial well-being, and personal improvement areas.
 ✅ Actionable Recommendations → Provides tailored advice for career advancement, investments, health, and lifestyle.
@@ -9,7 +9,7 @@ Digital Twin for a Personal Life Simulator is an AI-powered decision-making tool
 ✅ Data Visualization → Generates interactive charts to show life progression trends.
 ✅ Error Handling & Smart Input Validation → Ensures realistic values for age, salary, and health.
 
-🛠️ Installation & Setup
+##🛠️ Installation & Setup
 1️⃣ Install Required Libraries
 Ensure you have Python installed, then install the necessary dependencies using:
 pip install numpy pandas matplotlib scikit-learn
@@ -18,7 +18,7 @@ pip install numpy pandas matplotlib scikit-learn
 Execute the script in your terminal or IDE:
 python digital_twin_simulator.py
 
-📌 How It Works
+##📌 How It Works
 🔹 Step 1: User Inputs
 Users provide their:
 
@@ -41,7 +41,7 @@ Financial Planning → Investment strategies based on risk tolerance and savings
 Growth Trends → Generates progression graphs showing financial and personal development.
 Reward Points System → Encourages good decisions with points-based feedback.
 
-📊 Example Output
+##📊 Example Output
 Enter your age (18-65): 30  
 Enter your current salary: 80000  
 Enter your savings rate (as a decimal, e.g., 0.2 for 20%): 0.3  
@@ -66,10 +66,10 @@ Rate your diet quality (1=Poor, 2=Average, 3=Excellent): 3
 🔹 Web Dashboard → Develop an interactive UI using Streamlit or Flask.
 🔹 Customization → Allow users to adjust goals and track long-term impact.
 
-License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-👨‍💻 Author
+##👨‍💻 Author
 Ashmeet Saluja
 🚀 Empower your future with data-driven decisions! 🌟
