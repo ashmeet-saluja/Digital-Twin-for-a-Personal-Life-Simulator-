@@ -1,4 +1,4 @@
-🌍 Digital Twin for a Personal Life Simulator
+## 🌍 Digital Twin for a Personal Life Simulator
 Digital Twin for a Personal Life Simulator is an AI-powered decision-making tool that helps individuals make informed choices about their career, finances, health, and personal growth. By leveraging predictive analytics and data-driven insights, this simulator provides personalized recommendations to improve overall well-being and long-term success.
 
 🚀 Features
