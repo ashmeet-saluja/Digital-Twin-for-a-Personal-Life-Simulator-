@@ -89,11 +89,12 @@ Personalized Recommendations:
 
 Predicted Financial Growth (5 years): $131600.00
 ```
-
+## 👤 Author
+Ashmeet Saluja
 ---
 
 ## ⚙️ License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
 
